@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: phanluan
- * Date: 24/10/2018
- * Time: 01:40
- */
+
 
 class ArrayList
 {
