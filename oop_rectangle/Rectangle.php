@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: phanluan
- * Date: 22/10/2018
- * Time: 18:52
- */
 
 class Rectangle
 {

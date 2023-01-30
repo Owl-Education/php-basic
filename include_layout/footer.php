@@ -1,1 +1,1 @@
-Copyright &copy; CodeGym.vn
+Copyright &copy; owl.edu.vn
